@@ -30,13 +30,13 @@ A native Android application implementing Fast Neural Style Transfer for artisti
 <img src="screenshots/Screenshot_20250924-031656.png" width="300" alt="Selected photo ready for style transfer">
 
 ### Style Selection
-<img src="screenshots/style_gallery.jpg" width="300" alt="Gallery of available artistic styles including Van Gogh, Picasso, and abstract styles">
+<img src="screenshots/Screenshot_20250924-031740.png" width="300" alt="Gallery of available artistic styles including Van Gogh, Picasso, and abstract styles">
 
 ### Processing
-<img src="screenshots/processing.jpg" width="300" alt="Processing screen showing 'Hold On!! Your ArtWork is being processed'">
+<img src="screenshots/Screenshot_20250924-031854.png" width="300" alt="Processing screen showing 'Hold On!! Your ArtWork is being processed'">
 
 ### Results
-<img src="screenshots/result_stylized.jpg" width="300" alt="Final stylized image with artistic transformation applied">
+<img src="screenshots/Screenshot_20250924-032458.png" width="300" alt="Final stylized image with artistic transformation applied">
 
 *Inference time: ~4.3 seconds on test device*
 
