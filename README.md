@@ -21,7 +21,7 @@ A native Android application implementing Fast Neural Style Transfer for artisti
 ## 🖼️ App Screenshots & Flow
 
 ### Main Interface
-<img src="screenshots/main_screen.jpg" width="300" alt="Main app interface with Gallery, Styles, and Transfer options">
+<img src="screenshots/Screenshot_20250924-031156.png" width="300" alt="Main app interface with Gallery, Styles, and Transfer options">
 
 ### Photo Selection
 <img src="screenshots/photo_selected.jpg" width="300" alt="Selected landscape photo ready for style transfer">
